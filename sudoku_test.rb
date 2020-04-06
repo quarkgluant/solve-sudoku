@@ -1,6 +1,5 @@
 require 'minitest/autorun'
 require_relative 'sudoku'
-using ArrayExtensions
 
 class SudokuTest < Minitest::Test
   def test_it_finds_rows
