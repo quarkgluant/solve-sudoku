@@ -67,9 +67,9 @@ the test file.
 
 Run the tests from the exercise directory using the following command:
 
-    ruby saddle_points_test.rb
+    ruby sudoku_test.rb
 
 To include color from the command line:
 
-    ruby -r minitest/pride saddle_points_test.rb
+    ruby -r minitest/pride sudoku_test.rb
 
